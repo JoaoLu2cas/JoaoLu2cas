@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!!+Eu+sou+o+João+Luccas+Marques+QA+e+um+Padawan+no+mundo+da+TI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!!Eu+sou+o+Jo%C3%A3o+Luccas+Marques+;QA+e+um+Padawan+no+mundo+da+TI+!)](https://git.io/typing-svg)
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoluccasm/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaolu2cas/)
